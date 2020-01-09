@@ -2,7 +2,7 @@
 
 JSON list of public daemons for Elphyrecoin (https://www.elphyrecoin.xyz).
 
-This list can be consumed in your application so you'll always have an up-to-date list of public nodes. To consume the list, use the following URL: https://raw.githubusercontent.com/elphyrecoin/elphyrecoin-nodes-json/master/elphyrecoin-nodes.json
+This list can be consumed in your application so you'll always have an up-to-date list of public nodes. To consume the list, use the following URL: https://raw.githubusercontent.com/SpookyPool/elphyrecoin-nodes-json/master/elphyrecoin-nodes.json
 
 ### Adding a New Node
 
